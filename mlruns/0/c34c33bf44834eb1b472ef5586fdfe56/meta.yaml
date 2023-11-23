@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlflow-dvc-demo/mlruns/0/c34c33bf44834eb1b472ef5586fdfe56/artifacts
+end_time: 1700682635032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c34c33bf44834eb1b472ef5586fdfe56
+run_name: serious-duck-812
+run_uuid: c34c33bf44834eb1b472ef5586fdfe56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700682634969
+status: 3
+tags: []
+user_id: Rishav
