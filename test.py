@@ -8,4 +8,11 @@ data = [
 
 df = pd.DataFrame(data)
 
+data_1 = [
+    {"name":"Ris", "age":25, "city":"new_delhi"},
+    {"name":"Subh", "age":27, "city":"patna"}
+]
+
+
+df = pd.DataFrame(data + data_1)
 df.to_csv("data/data.csv", index=False)
