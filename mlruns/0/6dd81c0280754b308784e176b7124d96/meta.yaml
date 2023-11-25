@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/mlflow-dvc-demo/mlruns/0/6dd81c0280754b308784e176b7124d96/artifacts
+deleted_time: 1700804141615
 end_time: 1700682523808
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6dd81c0280754b308784e176b7124d96
 run_name: debonair-ox-397
 run_uuid: 6dd81c0280754b308784e176b7124d96

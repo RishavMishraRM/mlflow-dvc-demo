@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/mlflow-dvc-demo/mlruns/0/e37744b30e1c4e38a2a47c9ba019c1f7/artifacts
+deleted_time: 1700804141612
 end_time: 1700760008934
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e37744b30e1c4e38a2a47c9ba019c1f7
 run_name: legendary-horse-243
 run_uuid: e37744b30e1c4e38a2a47c9ba019c1f7

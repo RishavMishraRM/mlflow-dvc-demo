@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/mlflow-dvc-demo/mlruns/0/c34c33bf44834eb1b472ef5586fdfe56/artifacts
+deleted_time: 1700804141566
 end_time: 1700682635032
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c34c33bf44834eb1b472ef5586fdfe56
 run_name: serious-duck-812
 run_uuid: c34c33bf44834eb1b472ef5586fdfe56
